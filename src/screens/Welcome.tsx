@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
   rodape: {
     alignItems: 'center',
     justifyContent: 'center',
-    marginBottom: 20,
+    marginBottom: 70,
   },
   rodapeText: {
     textAlign: 'center',
