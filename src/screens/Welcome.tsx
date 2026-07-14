@@ -7,6 +7,7 @@ import {
   StyleSheet,
   Alert,
 } from 'react-native';
+// Novo MOdulo
 
 const Welcome = () => {
   const [userName, setUserName] = useState('');
