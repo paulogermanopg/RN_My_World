@@ -7,7 +7,7 @@ import {
   StyleSheet,
   Alert,
 } from 'react-native';
-// Novo Módulo
+// Alteração do fork para pullrequest
 
 const Welcome = () => {
   const [userName, setUserName] = useState('');
